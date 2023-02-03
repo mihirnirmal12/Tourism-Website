@@ -264,6 +264,11 @@ nav{
 	border-radius: 0 0 50px 50px;
 	box-shadow: 5px 5px 10px rgba(0,0,0,0.7);
 }
+.add{
+	border: #0a9cc9;
+	height: 140px;
+	width : 30px;
+}
 .attractions-topic h1{
 	font-family: Nunito;
 	font-size: 50px;
@@ -504,7 +509,7 @@ button.collapse:hover, button.collapse.active{
 }
 .lower-footer{
 	width: 100%;
-	height: ;
+	height: 100%;
 	color: #fff;
 	font-size: 13px;
 	font-family: Roboto;
